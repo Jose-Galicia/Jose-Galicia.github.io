@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhacktheocean"]=self["webpackChunkhacktheocean"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var t=e(3396);const c={class:"about"},u=(0,t._)("h1",null,"This is an about page",-1),r=[u];function s(n,a){return(0,t.wg)(),(0,t.iD)("div",c,r)}var h=e(89);const o={},i=(0,h.Z)(o,[["render",s]]);var f=i}}]);
+//# sourceMappingURL=about.cccb8cdb.js.map
